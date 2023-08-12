@@ -1,0 +1,20 @@
+body{
+    
+    font-style: italic;
+    font-display: center;
+     background-image: url(img/istockphoto-619525286-612x612.jpg);
+     background-position: center center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     color: white;
+     text-align: center;
+}
+img{
+    width: 300px;
+    border: 1px solid lightblue;
+}
+a{
+    color: white;
+}
+
